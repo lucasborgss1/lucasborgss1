@@ -12,11 +12,9 @@ No meu tempo livre provavelmente você me econtrará ou jogando, assistindo algu
     <li> <a class="links" href="http://www.instagram.com/lucasborgss_/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
  </ul>
 -📫 Entre em contato comigo!
-<ul><li> <a class="links" href="mailto:lucasdealmeidaborges123@gmail.com">E-mail</a></li></ul>
-    
-
-
-                                    🎲.🏋️‍♂️.🎮.🦎.🎶.💻
+<ul>
+  <li> <a class="links" href="mailto:lucasdealmeidaborges123@gmail.com">E-mail</a></li>
+</ul>
   
 
 <!---
