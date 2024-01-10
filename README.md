@@ -1,9 +1,9 @@
 - 👋 Olá, meu nome é Lucas de Almeida Borges!
   
 - 🌱 Tenho 20 anos e estou cursando Engenharia de Sofware na Universidade Salvador (Unifacs), no 2° semestre.
-  
-- 📚 Atualmente estou fazendo um curso de Front-End, utilizando <strong>HTML, CSS e JavaScript<strong\>.
-Porém já possuo um conhecimento em <strong>C#<strong\> (iniciei por essa linguagem meus estudos na programação, através de um curso na Udemy).
+  <
+- 📚 Atualmente estou fazendo um curso de Front-End, utilizando <strong>HTML, CSS e JavaScript</strong>.
+Porém já possuo um conhecimento em <strong> C# </strong> (iniciei por essa linguagem meus estudos na programação, através de um curso na Udemy).
 
 - 💻 Pretendo me tornar um desenvolvedor full-stack, estudando muito para alcançar meus objetivos! 🙌
   
