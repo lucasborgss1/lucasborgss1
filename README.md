@@ -12,6 +12,7 @@ No meu tempo livre provavelmente você me econtrará ou jogando, assistindo algu
 
 - 🙋🏾‍♂️ Você pode me econtrar por aqui também:
   <ul>
+
     <li> <a class="links" href="http://www.linkedin.com/in/lucasborgss0/" target="_blank" rel="noopener noreferrer">Linkedin</a><br> </li>
     <li> <a class="links" href="http://www.instagram.com/lucasborgss_/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
  </ul>
