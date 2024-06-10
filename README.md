@@ -1,5 +1,5 @@
 
-# Seja bem vindo ao meu GitHub 👋🏽
+# Seja bem vindo ao meu GitHub 👋🏽 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## Meu nome é Lucas Borges, atualmente tenho 20 anos e estou cursando Engenharia de Software na Universidade Católica do Salvador, atualmente no Primeiro Semestre.
 
@@ -7,7 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasborgss_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasborgss0/)
-
+     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasborgss1&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborgss1&layout=compact)
