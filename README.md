@@ -1,5 +1,5 @@
 
-# Seja bem vindo ao meu GitHub 👋🏽 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+# Seja bem vindo ao meu GitHub 👋🏽 
 
 ## Meu nome é Lucas Borges, atualmente tenho 20 anos e estou cursando Engenharia de Software na Universidade Católica do Salvador, atualmente no Primeiro Semestre.
 
