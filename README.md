@@ -10,7 +10,7 @@
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasborgss1&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborgss1&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborgss1&theme=radical)
 
 
 ### Tecnologias que estou aprendendo
