@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasborgss1&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborgss1&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborgss1&layout=compact)
 
 
 ### Tecnologias que estou aprendendo
