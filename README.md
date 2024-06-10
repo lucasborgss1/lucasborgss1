@@ -1,7 +1,7 @@
 
-# Olá, eu sou o Lucas Borges 👋🏽
+# Seja bem vindo ao meu GitHub 👋🏽
 
-## Cursando Engenharia de Software na Universidade Católica do Salvador, atualmente no Primeiro Semestre.
+## Meu nome é Lucas Borges, atualmente tenho 20 anos e estou cursando Engenharia de Software na Universidade Católica do Salvador, atualmente no Primeiro Semestre.
 
 ### Amo estudar, aprender e praticar a programação.
 
