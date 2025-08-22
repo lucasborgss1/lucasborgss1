@@ -1,8 +1,8 @@
-<h1 align="center">👋🏽 Muito bem vindo(a)!  Sou o Lucas Borges 🙂</h1>
+<h1 align="center"> Muito bem vindo(a)! </h1>
 
 ###
 
-<h3 align="center">👨‍💻  Sobre mim:</h3>
+<h3 align="center">Sobre mim:</h3>
 
 ###
 
