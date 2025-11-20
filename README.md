@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Tenho 22 anos e sou apaixonado por tecnologia e desenvolvimento de software.<br><br>- 🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSAL).<br>- 📚 Atualmente estou aprofundando meus conhecimentos em Desenvolvimento Web com Angular e ASP.NET.<br>- ⚡ Gosto de desafios e estou sempre aprendendo algo novo para me tornar um profissional "fora da curva".</p>
+<p align="center">Tenho 22 anos e sou apaixonado por tecnologia e desenvolvimento de software.<br><br>- 🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSAL).<br>- 📚 Atualmente trabalho com desenvolvimento Web utiizando ASP.NET com DevExpress e SQL Server.<br>- ⚡ Gosto de desafios e estou sempre aprendendo algo novo para me tornar um profissional "fora da curva".</p>
 
 ###
 
