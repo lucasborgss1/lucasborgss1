@@ -34,10 +34,6 @@
 
 ###
 
-<h3 align="left">💻 Minha Stack Atual</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="19" />
@@ -72,17 +68,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Minhas estatísticas</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasborgss1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lucasborgss1&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
